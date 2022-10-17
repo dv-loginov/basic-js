@@ -29,7 +29,6 @@ function encodeLine(str) {
     result += count + '' + entry;
   }
 
-
   return result.replace(/1/g, ''); 
 }
 
